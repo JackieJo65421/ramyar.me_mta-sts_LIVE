@@ -2,6 +2,6 @@ version: STSv1
 mode: testing
 mx: mxa.mailgun.org
 mx: mxb.mailgun.org
-mx: in1-smtp.messagingengine.com
-mx: in2-smtp.messagingengine.com
+mx: eu1-smtp.messagingengine.com
+mx: eu2-smtp.messagingengine.com
 max_age: 86400
